@@ -43,8 +43,3 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Babydevil14/Babydevil14/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/Babydevil14/Babydevil14/output/snake.svg" alt="Snake animation" />
-
-###
