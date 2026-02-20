@@ -1,6 +1,6 @@
 # Ი︵𐑼 :~$ whoami Ი︵𐑼
 
-![BannerProfile](img\githubbannerlofii.png)
+![BannerProfile](img/githubbannerlofii.png)
 
 <!--
 **Babydevil14/Babydevil14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
