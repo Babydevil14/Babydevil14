@@ -1,4 +1,6 @@
-## Hi there 👋
+# Ი︵𐑼 :~$ whoami Ი︵𐑼
+
+![BannerProfile](img\githubbannerlofii.png)
 
 <!--
 **Babydevil14/Babydevil14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✮⋆˙ You can call me "Amanda" ✮⋆˙
+- 🎧✩｡ I’m currently learning Network Security
+- 🧸ྀི I'm open to collaborating
